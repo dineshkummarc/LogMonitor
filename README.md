@@ -1,4 +1,5 @@
-# LogMonitor
+LogMonitor
+=========
 
 *LogMonitor* is a combination of *logtail* and [*logster*](https://github.com/etsy/logster), but specifically designed for windows systems. It watches directories or files for changes, extracts metrics from the added content and submits these metrics to a configured backend (*graphite*, *statsd* or *console*).
 
